@@ -9,7 +9,7 @@ public class LogDebug {
 
     public static final String TAG = "LogDebug";
 
-    public static void log(String msg)
+    public static void LogMsg(String msg)
     {
         Log.d(TAG,msg);
     }
